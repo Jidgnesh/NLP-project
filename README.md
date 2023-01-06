@@ -7,4 +7,15 @@ This a cross-platform desktop app built with [tkinter] which simply acts like a 
 To get started with this app, you might have to clone or download the repository first;
 
 ```bash
-git clone https://github.com/
+https://github.com/Jidgnesh/NLP-project.git
+cd NLP-project
+cd word_definer
+```
+
+## launching
+
+Now once installed launch it by running as you would run a normal python script and the gui for chatbot will pop up;
+
+```bash
+python app.py
+```
